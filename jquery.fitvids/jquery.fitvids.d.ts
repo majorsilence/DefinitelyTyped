@@ -7,7 +7,7 @@
 
 interface JQuery {
 
-	fitVids();
-	fitVids(options: any);
+	fitVids() : void;
+	fitVids(options: any) : void;
 
 }
